@@ -127,9 +127,6 @@ Carol D. Lee,English,Undirected
 Carol D. Lee,Curriculum and Instruction,Undirected
 Lama Z. Jaber,Science Education,Undirected
 Lama Z. Jaber,Chemistry,Undirected
-David Hammer,Education,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
 Dor Abrahamson,Mathematics Education,Undirected
 Dor Abrahamson,Performing Arts,Undirected
 Dor Abrahamson,Cognitive Psychology,Undirected
@@ -141,11 +138,6 @@ Sanne Akkerman,Educational Science,Undirected
 Alfredo Jornet,Education,Undirected
 Alfredo Jornet,Cognitive Science,Undirected
 Alfredo Jornet,Psychology,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected 
-Wolff-Michael Roth,Physics,Undirected 
-Wolff-Michael Roth,Cognitive Science,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Ingeborg Krange,Educational Sciences,Undirected
 Ingeborg Krange,Sociology,Undirected
 Ingeborg Krange,Computer-Mediated Learning,Undirected
@@ -361,13 +353,12 @@ Judit N. Moschkovich,Education,Undirected
 Michael Eisenberg,Information,Undirected
 Mitchel Resnick,Physics,undirected
 Mitchel Resnick,Computer Science,undirected
-Mitchel Resnick,Media Arts and science acadamic program,undirected
 Mitchel Resnick,The learning sciences,undirected
 Gregory Hume,AI,undirected
 Gregory Hume,Social science,undirected
 Gregory Hume,Education,undirected
 Gregory Hume,The learning sciences,undirected
-Joel Michael,Education,undirected
+Joel Michael,Molecular Biophysics and Physiology,undirected
 Joel Michael,The learning sciences,undirected
 Allen Rovick,The learning sciences,undirected
 Martha Evens,Math,undirected
@@ -383,27 +374,31 @@ Benoit Lemaire,AI,undirected
 Benoit Lemaire,Cognitive psychology,undirected
 Benoit Lemaire,The learning sciences,undirected
 James A. Rosenblum,The learning sciences,undirected
-David Hammer,The learning sciences,undirected
 Wolff-Michael Roth,Physics,undirected
-Wolff-Michael Roth,Cognitive science,undirected
-Wolff-Michael Roth,Statics,undirected
-Wolff-Michael Roth,Physical chemistry,undirected
-Wolff-Michael Roth,The learning sciences,undirected
+Wolff-Michael Roth,Applied Psychology,undirected
+Wolff-Michael Roth,Psychology,undirected
+Jeremy Roschelle,Computer Science,undirected
+Jeremy Roschelle,Psychology,undirected
 Jeremy Roschelle,The learning sciences,undirected
 Elaine M. Crowder,The learning sciences,undirected
-Rogers Hall,The learning sciences,undirected
+Rogers Hall,Teaching and Learning,undirected
 Judit N. Moschkovich,Social science,undirected
+Judit N. Moschkovich,Psychology,undirected
 Judit N. Moschkovich,Education,undirected
 Judit N. Moschkovich,The learning sciences,undirected
 Christine Theberge Rafal,The learning sciences,undirected
-Nancy Butler Songer,Education,undirected
-Nancy Butler Songer,Biology,undirected
+Christine Theberge Rafal,Teaching and Curriculum and Learning Environments,undirected
+Christine Theberge Rafal,Linguistics,undirected
+Christine Theberge Rafal,Secondary English,undirected
+Nancy Butler Songer,Biological Sciences,undirected
+Nancy Butler Songer,Developmental Biology,undirected
+Nancy Butler Songer,Science Education and Learning Technologies,undirected
 Nancy Butler Songer,The learning sciences,undirected
 Valerie J. Shute,Cognitive psychology,undirected
 Valerie J. Shute,Education,undirected
 Valerie J. Shute,Biology,undirected
 Valerie J. Shute,The learning sciences,undirected
-Kevin A. Gluck,Cognitive science,undirected
+Kevin A. Gluck,Psychology,undirected
 Kevin A. Gluck,The learning sciences,undirected
 Daniel C. Edelson,Computer Science,undirected
 Daniel C. Edelson,Education,undirected
@@ -463,12 +458,6 @@ G. Michael Bowen,News Media,Undirected
 G. Michael Bowen,Teacher Education,Undirected
 John R. Frederiksen,The Learning Science,Undirected
 John R. Frederiksen,Psychology,Undirected
-Wolff-Michael Roth,The Learning Science,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Cognition,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Amy S. Kohn,Educational Policy,Undirected
 Amy S. Kohn,Mathematics Education,Undirected
 Amy S. Kohn,Science Education,Undirected
@@ -491,7 +480,6 @@ Scott W. VanderStoep,Education,Undirected
 Scott W. VanderStoep,Psychology,Undirected
 Scott W. VanderStoep,Social Psychology,Undirected
 Scott W. VanderStoep,Religion,Undirected
-=======
 Source,Target,Type
 Teresa Sosa,Literacy,Undirected
 Teresa Sosa,Language Education,Undirected
@@ -509,9 +497,6 @@ Carol D. Lee,English,Undirected
 Carol D. Lee,Curriculum and Instruction,Undirected
 Lama Z. Jaber,Science Education,Undirected
 Lama Z. Jaber,Chemistry,Undirected
-David Hammer,Education,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
 Dor Abrahamson,Mathematics Education,Undirected
 Dor Abrahamson,Performing Arts,Undirected
 Dor Abrahamson,Cognitive Psychology,Undirected
@@ -523,11 +508,6 @@ Sanne Akkerman,Educational Science,Undirected
 Alfredo Jornet,Education,Undirected
 Alfredo Jornet,Cognitive Science,Undirected
 Alfredo Jornet,Psychology,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected 
-Wolff-Michael Roth,Physics,Undirected 
-Wolff-Michael Roth,Cognitive Science,
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Ingeborg Krange,Educational Sciences,Undirected
 Ingeborg Krange,Sociology,Undirected
 Ingeborg Krange,Computer-Mediated Learning,Undirected
@@ -765,13 +745,6 @@ Benoit Lemaire,AI,undirected
 Benoit Lemaire,Cognitive psychology,undirected
 Benoit Lemaire,The learning sciences,undirected
 James A. Rosenblum,The learning sciences,undirected
-David Hammer,The learning sciences,undirected
-Wolff-Michael Roth,Physics,undirected
-Wolff-Michael Roth,Cognitive science,undirected
-Wolff-Michael Roth,Statics,undirected
-Wolff-Michael Roth,Physical chemistry,undirected
-Wolff-Michael Roth,The learning sciences,undirected
-Jeremy Roschelle,The learning sciences,undirected
 Elaine M. Crowder,The learning sciences,undirected
 Rogers Hall,The learning sciences,undirected
 Judit N. Moschkovich,Social science,undirected
@@ -823,7 +796,6 @@ Mitchell Nathan,Electrical,undirected
 Mitchell Nathan,COmputer Engineering,undirected
 Mitchell Nathan,Math,undirected
 Mitchell Nathan,History,undirected
-Jeremy Roschelle,mathematics education,undirected
 Alyssa Wise,Learning Sciences,undirected
 Alyssa Wise,Chemistry,undirected
 Alyssa Wise,Instructional Systems Technology,undirected
@@ -845,12 +817,6 @@ G. Michael Bowen,News Media,Undirected
 G. Michael Bowen,Teacher Education,Undirected
 John R. Frederiksen,The Learning Science,Undirected
 John R. Frederiksen,Psychology,Undirected
-Wolff-Michael Roth,The Learning Science,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Cognition,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Amy S. Kohn,Educational Policy,Undirected
 Amy S. Kohn,Mathematics Education,Undirected
 Amy S. Kohn,Science Education,Undirected
@@ -900,8 +866,6 @@ Allan Jeong,Instructional System,Undirected
 Eric Fehse,Psychology,Undirected
 Eric Fehse,Cognitive Psychology,Undirected
 Eric Fehse,Interaction Design,Undirected
-Wolff-Michael Roth,Nuclear Physics,Undirected
-Wolff-Michael Roth,Physical Sciences,Undirected
 Sasha Barab,Psychology,Undirected
 Sasha Barab,Educational Technology,Undirected
 Sasha Barab,the Learning Sciences,Undirected
@@ -1082,10 +1046,6 @@ William Sandoval,the Learing Science,Undirected
 William Sandoval,Science Communication,Undirected
 William Sandoval,Computer Science,Undirected
 William Sandoval,Educational Psychology,Undirected
-David Hammer,the Learing Science,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
-David Hammer,Educational Studies,Undirected
 Leema K. Berland,the Learing Science,Undirected
 Leema K. Berland,Computer Science,Undirected
 Leema K. Berland,Educational Studies,Undirected
@@ -1118,8 +1078,6 @@ Joachim Kimmerle,Computer Science,Undirected
 Ulrike Cress,the Learing Science,Undirected
 Ulrike Cress,Computer Science,Undirected
 Ulrike Cress,Educational Technology,Undirected
-Wolff-Michael Roth,the Learing Science,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected
 Julia Eberle,the Learing Science,Undirected
 Julia Eberle,Network Science,Undirected
 Julia Eberle,Educational Psychology,Undirected
@@ -1333,7 +1291,6 @@ Uri Wilensky,Computer Science,Undirected
 Uri Wilensky,Media Arts and Sciences,Undirected
 Robert L. Goldstone,Cognitive  Science,Undirected
 Robert L. Goldstone,Psychology,Undirected
-Jeremy Roschelle,Learning Sciences,Undirected
 Michael J. Jacobson,Learning Sciences,Undirected
 Nora H. Sabelli,Learning Sciences,Undirected
 Uri Wilensky,Learning Sciences,Undirected
@@ -1374,9 +1331,6 @@ Ming Fai Pang ,Learning Sciences,Undirected
 Joseph L. Polman,Literature,Undirected
 Joseph L. Polman,Learning Sciences,Undirected
 Seth Rosenberg,Learning Sciences,Undirected
-David Hammer ,Physics,Undirected
-David Hammer ,Maths Education,Undirected
-David Hammer ,Learning Sciences,Undirected
 Jessica Phelan,Learning Sciences,Undirected
 Michael Eisenberg,Computer Science,Undirected
 Michael Eisenberg,Learning Sciences,Undirected
@@ -1630,9 +1584,6 @@ Carol D. Lee,English,Undirected
 Carol D. Lee,Curriculum and Instruction,Undirected
 Lama Z. Jaber,Science Education,Undirected
 Lama Z. Jaber,Chemistry,Undirected
-David Hammer,Education,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
 Dor Abrahamson,Mathematics Education,Undirected
 Dor Abrahamson,Performing Arts,Undirected
 Dor Abrahamson,Cognitive Psychology,Undirected
@@ -1644,11 +1595,6 @@ Sanne Akkerman,Educational Science,Undirected
 Alfredo Jornet,Education,Undirected
 Alfredo Jornet,Cognitive Science,Undirected
 Alfredo Jornet,Psychology,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected 
-Wolff-Michael Roth,Physics,Undirected 
-Wolff-Michael Roth,Cognitive Science,
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Ingeborg Krange,Educational Sciences,Undirected
 Ingeborg Krange,Sociology,Undirected
 Ingeborg Krange,Computer-Mediated Learning,Undirected
@@ -1886,13 +1832,6 @@ Benoit Lemaire,AI,undirected
 Benoit Lemaire,Cognitive psychology,undirected
 Benoit Lemaire,The learning sciences,undirected
 James A. Rosenblum,The learning sciences,undirected
-David Hammer,The learning sciences,undirected
-Wolff-Michael Roth,Physics,undirected
-Wolff-Michael Roth,Cognitive science,undirected
-Wolff-Michael Roth,Statics,undirected
-Wolff-Michael Roth,Physical chemistry,undirected
-Wolff-Michael Roth,The learning sciences,undirected
-Jeremy Roschelle,The learning sciences,undirected
 Elaine M. Crowder,The learning sciences,undirected
 Rogers Hall,The learning sciences,undirected
 Judit N. Moschkovich,Social science,undirected
@@ -1944,7 +1883,6 @@ Mitchell Nathan,Electrical,undirected
 Mitchell Nathan,COmputer Engineering,undirected
 Mitchell Nathan,Math,undirected
 Mitchell Nathan,History,undirected
-Jeremy Roschelle,mathematics education,undirected
 Alyssa Wise,Learning Sciences,undirected
 Alyssa Wise,Chemistry,undirected
 Alyssa Wise,Instructional Systems Technology,undirected
@@ -1966,12 +1904,6 @@ G. Michael Bowen,News Media,Undirected
 G. Michael Bowen,Teacher Education,Undirected
 John R. Frederiksen,The Learning Science,Undirected
 John R. Frederiksen,Psychology,Undirected
-Wolff-Michael Roth,The Learning Science,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Cognition,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Amy S. Kohn,Educational Policy,Undirected
 Amy S. Kohn,Mathematics Education,Undirected
 Amy S. Kohn,Science Education,Undirected
@@ -2239,8 +2171,6 @@ Joachim Kimmerle,Computer Science,Undirected
 Ulrike Cress,the Learing Science,Undirected
 Ulrike Cress,Computer Science,Undirected
 Ulrike Cress,Educational Technology,Undirected
-Wolff-Michael Roth,the Learing Science,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected
 Julia Eberle,the Learing Science,Undirected
 Julia Eberle,Network Science,Undirected
 Julia Eberle,Educational Psychology,Undirected
@@ -2442,7 +2372,6 @@ Richard Lesh,Cognitive Psychology,Undirected
 Richard Lesh,Learning Sciences,Undirected
 Richard Lesh,Cognitive Sciences,Undirected
 Richard Lesh,Maths Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
 Nora H. Sabelli,Chemistry,Undirected
 Michael J. Jacobson,Education,Undirected
 Uri Wilensky,Math,Undirected
@@ -2452,7 +2381,6 @@ Uri Wilensky,Computer Science,Undirected
 Uri Wilensky,Media Arts and Sciences,Undirected
 Robert L. Goldstone,Cognitive  Science,Undirected
 Robert L. Goldstone,Psychology,Undirected
-Jeremy Roschelle,Learning Sciences,Undirected
 Michael J. Jacobson,Learning Sciences,Undirected
 Nora H. Sabelli,Learning Sciences,Undirected
 Uri Wilensky,Learning Sciences,Undirected
@@ -2493,9 +2421,6 @@ Ming Fai Pang ,Learning Sciences,Undirected
 Joseph L. Polman,Literature,Undirected
 Joseph L. Polman,Learning Sciences,Undirected
 Seth Rosenberg,Learning Sciences,Undirected
-David Hammer ,Physics,Undirected
-David Hammer ,Maths Education,Undirected
-David Hammer ,Learning Sciences,Undirected
 Jessica Phelan,Learning Sciences,Undirected
 Michael Eisenberg,Computer Science,Undirected
 Michael Eisenberg,Learning Sciences,Undirected
@@ -2872,9 +2797,6 @@ Carol D. Lee,English,Undirected
 Carol D. Lee,Curriculum and Instruction,Undirected
 Lama Z. Jaber,Science Education,Undirected
 Lama Z. Jaber,Chemistry,Undirected
-David Hammer,Education,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
 Dor Abrahamson,Mathematics Education,Undirected
 Dor Abrahamson,Performing Arts,Undirected
 Dor Abrahamson,Cognitive Psychology,Undirected
@@ -2886,11 +2808,6 @@ Sanne Akkerman,Educational Science,Undirected
 Alfredo Jornet,Education,Undirected
 Alfredo Jornet,Cognitive Science,Undirected
 Alfredo Jornet,Psychology,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected 
-Wolff-Michael Roth,Physics,Undirected 
-Wolff-Michael Roth,Cognitive Science,
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Ingeborg Krange,Educational Sciences,Undirected
 Ingeborg Krange,Sociology,Undirected
 Ingeborg Krange,Computer-Mediated Learning,Undirected
@@ -2998,7 +2915,6 @@ Cindy E. Hmelo,technology enhanced learning,Undirected
 Cindy E. Hmelo,collaborative learning,Undirected
 Judit N. Moschkovich,social sciences division,Undirected
 Judit N. Moschkovich,education and learning of mathematics,Undirected
-Jeremy Roschelle,digital technology,Undirected
 Bonnie Nardi,anthropology,Undirected
 Bonnie Nardi,human-computer interaction,Undirected
 Susan M. Williams,law,Undirected
@@ -3071,10 +2987,6 @@ Debra Bernstein,Educational Technology,Undirected
 Kevin Crowley,The Learning Sciences,Undirected
 Deborah Tatar,Psychology,Undirected
 Deborah Tatar,Computer Science,Undirected
-Jeremy Roschelle,Math,Undirected
-Jeremy Roschelle,Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
-Jeremy Roschelle,The Learning Sciences,Undirected
 Jennifer Knudsen,Math,Undirected
 Jennifer Knudsen,Education,Undirected
 Jim Kaput,Biology,Undirected
@@ -3128,13 +3040,6 @@ Benoit Lemaire,AI,undirected
 Benoit Lemaire,Cognitive psychology,undirected
 Benoit Lemaire,The learning sciences,undirected
 James A. Rosenblum,The learning sciences,undirected
-David Hammer,The learning sciences,undirected
-Wolff-Michael Roth,Physics,undirected
-Wolff-Michael Roth,Cognitive science,undirected
-Wolff-Michael Roth,Statics,undirected
-Wolff-Michael Roth,Physical chemistry,undirected
-Wolff-Michael Roth,The learning sciences,undirected
-Jeremy Roschelle,The learning sciences,undirected
 Elaine M. Crowder,The learning sciences,undirected
 Rogers Hall,The learning sciences,undirected
 Judit N. Moschkovich,Social science,undirected
@@ -3186,7 +3091,6 @@ Mitchell Nathan,Electrical,undirected
 Mitchell Nathan,COmputer Engineering,undirected
 Mitchell Nathan,Math,undirected
 Mitchell Nathan,History,undirected
-Jeremy Roschelle,mathematics education,undirected
 Alyssa Wise,Learning Sciences,undirected
 Alyssa Wise,Chemistry,undirected
 Alyssa Wise,Instructional Systems Technology,undirected
@@ -3208,12 +3112,6 @@ G. Michael Bowen,News Media,Undirected
 G. Michael Bowen,Teacher Education,Undirected
 John R. Frederiksen,The Learning Science,Undirected
 John R. Frederiksen,Psychology,Undirected
-Wolff-Michael Roth,The Learning Science,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Cognition,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Amy S. Kohn,Educational Policy,Undirected
 Amy S. Kohn,Mathematics Education,Undirected
 Amy S. Kohn,Science Education,Undirected
@@ -3263,8 +3161,6 @@ Allan Jeong,Instructional System,Undirected
 Eric Fehse,Psychology,Undirected
 Eric Fehse,Cognitive Psychology,Undirected
 Eric Fehse,Interaction Design,Undirected
-Wolff-Michael Roth,Nuclear Physics,Undirected
-Wolff-Michael Roth,Physical Sciences,Undirected
 Sasha Barab,Psychology,Undirected
 Sasha Barab,Educational Technology,Undirected
 Sasha Barab,the Learning Sciences,Undirected
@@ -3422,8 +3318,7 @@ Daniel L. Schwartz,初等教育,Undirected
 Daniel L. Schwartz,教师教育,Undirected
 Daniel L. Schwartz,教学方法,Undirected
 Daniel L. Schwartz,教育技术,Undirected
-Daniel L. Schwartz,艺术,Undirected
-Leslie R. Herrenkohl,科学教育,Undirected
+Daniel L. Schwartz,艺术,UndirectedLeslie R. Herrenkohl,科学教育,Undirected
 Leslie R. Herrenkohl,文本分析,Undirected
 Leslie R. Herrenkohl,教育学,Undirected
 Leslie R. Herrenkohl,社交情绪学习,Undirected
@@ -3445,10 +3340,6 @@ William Sandoval,the Learing Science,Undirected
 William Sandoval,Science Communication,Undirected
 William Sandoval,Computer Science,Undirected
 William Sandoval,Educational Psychology,Undirected
-David Hammer,the Learing Science,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
-David Hammer,Educational Studies,Undirected
 Leema K. Berland,the Learing Science,Undirected
 Leema K. Berland,Computer Science,Undirected
 Leema K. Berland,Educational Studies,Undirected
@@ -3481,8 +3372,6 @@ Joachim Kimmerle,Computer Science,Undirected
 Ulrike Cress,the Learing Science,Undirected
 Ulrike Cress,Computer Science,Undirected
 Ulrike Cress,Educational Technology,Undirected
-Wolff-Michael Roth,the Learing Science,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected
 Julia Eberle,the Learing Science,Undirected
 Julia Eberle,Network Science,Undirected
 Julia Eberle,Educational Psychology,Undirected
@@ -3684,7 +3573,6 @@ Richard Lesh,Cognitive Psychology,Undirected
 Richard Lesh,Learning Sciences,Undirected
 Richard Lesh,Cognitive Sciences,Undirected
 Richard Lesh,Maths Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
 Nora H. Sabelli,Chemistry,Undirected
 Michael J. Jacobson,Education,Undirected
 Uri Wilensky,Math,Undirected
@@ -3694,7 +3582,6 @@ Uri Wilensky,Computer Science,Undirected
 Uri Wilensky,Media Arts and Sciences,Undirected
 Robert L. Goldstone,Cognitive  Science,Undirected
 Robert L. Goldstone,Psychology,Undirected
-Jeremy Roschelle,Learning Sciences,Undirected
 Michael J. Jacobson,Learning Sciences,Undirected
 Nora H. Sabelli,Learning Sciences,Undirected
 Uri Wilensky,Learning Sciences,Undirected
@@ -3735,9 +3622,6 @@ Ming Fai Pang ,Learning Sciences,Undirected
 Joseph L. Polman,Literature,Undirected
 Joseph L. Polman,Learning Sciences,Undirected
 Seth Rosenberg,Learning Sciences,Undirected
-David Hammer ,Physics,Undirected
-David Hammer ,Maths Education,Undirected
-David Hammer ,Learning Sciences,Undirected
 Jessica Phelan,Learning Sciences,Undirected
 Michael Eisenberg,Computer Science,Undirected
 Michael Eisenberg,Learning Sciences,Undirected
@@ -4075,9 +3959,6 @@ Carol D. Lee,English,Undirected
 Carol D. Lee,Curriculum and Instruction,Undirected
 Lama Z. Jaber,Science Education,Undirected
 Lama Z. Jaber,Chemistry,Undirected
-David Hammer,Education,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
 Dor Abrahamson,Mathematics Education,Undirected
 Dor Abrahamson,Performing Arts,Undirected
 Dor Abrahamson,Cognitive Psychology,Undirected
@@ -4089,11 +3970,6 @@ Sanne Akkerman,Educational Science,Undirected
 Alfredo Jornet,Education,Undirected
 Alfredo Jornet,Cognitive Science,Undirected
 Alfredo Jornet,Psychology,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected 
-Wolff-Michael Roth,Physics,Undirected 
-Wolff-Michael Roth,Cognitive Science,
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Ingeborg Krange,Educational Sciences,Undirected
 Ingeborg Krange,Sociology,Undirected
 Ingeborg Krange,Computer-Mediated Learning,Undirected
@@ -4201,7 +4077,6 @@ Cindy E. Hmelo,technology enhanced learning,Undirected
 Cindy E. Hmelo,collaborative learning,Undirected
 Judit N. Moschkovich,social sciences division,Undirected
 Judit N. Moschkovich,education and learning of mathematics,Undirected
-Jeremy Roschelle,digital technology,Undirected
 Bonnie Nardi,anthropology,Undirected
 Bonnie Nardi,human-computer interaction,Undirected
 Susan M. Williams,law,Undirected
@@ -4274,10 +4149,6 @@ Debra Bernstein,Educational Technology,Undirected
 Kevin Crowley,The Learning Sciences,Undirected
 Deborah Tatar,Psychology,Undirected
 Deborah Tatar,Computer Science,Undirected
-Jeremy Roschelle,Math,Undirected
-Jeremy Roschelle,Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
-Jeremy Roschelle,The Learning Sciences,Undirected
 Jennifer Knudsen,Math,Undirected
 Jennifer Knudsen,Education,Undirected
 Jim Kaput,Biology,Undirected
@@ -4331,13 +4202,6 @@ Benoit Lemaire,AI,undirected
 Benoit Lemaire,Cognitive psychology,undirected
 Benoit Lemaire,The learning sciences,undirected
 James A. Rosenblum,The learning sciences,undirected
-David Hammer,The learning sciences,undirected
-Wolff-Michael Roth,Physics,undirected
-Wolff-Michael Roth,Cognitive science,undirected
-Wolff-Michael Roth,Statics,undirected
-Wolff-Michael Roth,Physical chemistry,undirected
-Wolff-Michael Roth,The learning sciences,undirected
-Jeremy Roschelle,The learning sciences,undirected
 Elaine M. Crowder,The learning sciences,undirected
 Rogers Hall,The learning sciences,undirected
 Judit N. Moschkovich,Social science,undirected
@@ -4389,7 +4253,6 @@ Mitchell Nathan,Electrical,undirected
 Mitchell Nathan,COmputer Engineering,undirected
 Mitchell Nathan,Math,undirected
 Mitchell Nathan,History,undirected
-Jeremy Roschelle,mathematics education,undirected
 Alyssa Wise,Learning Sciences,undirected
 Alyssa Wise,Chemistry,undirected
 Alyssa Wise,Instructional Systems Technology,undirected
@@ -4411,12 +4274,6 @@ G. Michael Bowen,News Media,Undirected
 G. Michael Bowen,Teacher Education,Undirected
 John R. Frederiksen,The Learning Science,Undirected
 John R. Frederiksen,Psychology,Undirected
-Wolff-Michael Roth,The Learning Science,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Cognition,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Amy S. Kohn,Educational Policy,Undirected
 Amy S. Kohn,Mathematics Education,Undirected
 Amy S. Kohn,Science Education,Undirected
@@ -4466,8 +4323,6 @@ Allan Jeong,Instructional System,Undirected
 Eric Fehse,Psychology,Undirected
 Eric Fehse,Cognitive Psychology,Undirected
 Eric Fehse,Interaction Design,Undirected
-Wolff-Michael Roth,Nuclear Physics,Undirected
-Wolff-Michael Roth,Physical Sciences,Undirected
 Sasha Barab,Psychology,Undirected
 Sasha Barab,Educational Technology,Undirected
 Sasha Barab,the Learning Sciences,Undirected
@@ -4648,10 +4503,6 @@ William Sandoval,the Learing Science,Undirected
 William Sandoval,Science Communication,Undirected
 William Sandoval,Computer Science,Undirected
 William Sandoval,Educational Psychology,Undirected
-David Hammer,the Learing Science,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
-David Hammer,Educational Studies,Undirected
 Leema K. Berland,the Learing Science,Undirected
 Leema K. Berland,Computer Science,Undirected
 Leema K. Berland,Educational Studies,Undirected
@@ -4684,8 +4535,6 @@ Joachim Kimmerle,Computer Science,Undirected
 Ulrike Cress,the Learing Science,Undirected
 Ulrike Cress,Computer Science,Undirected
 Ulrike Cress,Educational Technology,Undirected
-Wolff-Michael Roth,the Learing Science,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected
 Julia Eberle,the Learing Science,Undirected
 Julia Eberle,Network Science,Undirected
 Julia Eberle,Educational Psychology,Undirected
@@ -4887,7 +4736,6 @@ Richard Lesh,Cognitive Psychology,Undirected
 Richard Lesh,Learning Sciences,Undirected
 Richard Lesh,Cognitive Sciences,Undirected
 Richard Lesh,Maths Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
 Nora H. Sabelli,Chemistry,Undirected
 Michael J. Jacobson,Education,Undirected
 Uri Wilensky,Math,Undirected
@@ -4897,7 +4745,6 @@ Uri Wilensky,Computer Science,Undirected
 Uri Wilensky,Media Arts and Sciences,Undirected
 Robert L. Goldstone,Cognitive  Science,Undirected
 Robert L. Goldstone,Psychology,Undirected
-Jeremy Roschelle,Learning Sciences,Undirected
 Michael J. Jacobson,Learning Sciences,Undirected
 Nora H. Sabelli,Learning Sciences,Undirected
 Uri Wilensky,Learning Sciences,Undirected
@@ -4938,9 +4785,6 @@ Ming Fai Pang ,Learning Sciences,Undirected
 Joseph L. Polman,Literature,Undirected
 Joseph L. Polman,Learning Sciences,Undirected
 Seth Rosenberg,Learning Sciences,Undirected
-David Hammer ,Physics,Undirected
-David Hammer ,Maths Education,Undirected
-David Hammer ,Learning Sciences,Undirected
 Jessica Phelan,Learning Sciences,Undirected
 Michael Eisenberg,Computer Science,Undirected
 Michael Eisenberg,Learning Sciences,Undirected
@@ -5289,11 +5133,6 @@ Sanne Akkerman,Educational Science,Undirected
 Alfredo Jornet,Education,Undirected
 Alfredo Jornet,Cognitive Science,Undirected
 Alfredo Jornet,Psychology,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected 
-Wolff-Michael Roth,Physics,Undirected 
-Wolff-Michael Roth,Cognitive Science,
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Ingeborg Krange,Educational Sciences,Undirected
 Ingeborg Krange,Sociology,Undirected
 Ingeborg Krange,Computer-Mediated Learning,Undirected
@@ -5401,7 +5240,6 @@ Cindy E. Hmelo,technology enhanced learning,Undirected
 Cindy E. Hmelo,collaborative learning,Undirected
 Judit N. Moschkovich,social sciences division,Undirected
 Judit N. Moschkovich,education and learning of mathematics,Undirected
-Jeremy Roschelle,digital technology,Undirected
 Bonnie Nardi,anthropology,Undirected
 Bonnie Nardi,human-computer interaction,Undirected
 Susan M. Williams,law,Undirected
@@ -5474,10 +5312,6 @@ Debra Bernstein,Educational Technology,Undirected
 Kevin Crowley,The Learning Sciences,Undirected
 Deborah Tatar,Psychology,Undirected
 Deborah Tatar,Computer Science,Undirected
-Jeremy Roschelle,Math,Undirected
-Jeremy Roschelle,Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
-Jeremy Roschelle,The Learning Sciences,Undirected
 Jennifer Knudsen,Math,Undirected
 Jennifer Knudsen,Education,Undirected
 Jim Kaput,Biology,Undirected
@@ -5531,13 +5365,6 @@ Benoit Lemaire,AI,undirected
 Benoit Lemaire,Cognitive psychology,undirected
 Benoit Lemaire,The learning sciences,undirected
 James A. Rosenblum,The learning sciences,undirected
-David Hammer,The learning sciences,undirected
-Wolff-Michael Roth,Physics,undirected
-Wolff-Michael Roth,Cognitive science,undirected
-Wolff-Michael Roth,Statics,undirected
-Wolff-Michael Roth,Physical chemistry,undirected
-Wolff-Michael Roth,The learning sciences,undirected
-Jeremy Roschelle,The learning sciences,undirected
 Elaine M. Crowder,The learning sciences,undirected
 Rogers Hall,The learning sciences,undirected
 Judit N. Moschkovich,Social science,undirected
@@ -5589,7 +5416,6 @@ Mitchell Nathan,Electrical,undirected
 Mitchell Nathan,COmputer Engineering,undirected
 Mitchell Nathan,Math,undirected
 Mitchell Nathan,History,undirected
-Jeremy Roschelle,mathematics education,undirected
 Alyssa Wise,Learning Sciences,undirected
 Alyssa Wise,Chemistry,undirected
 Alyssa Wise,Instructional Systems Technology,undirected
@@ -5611,12 +5437,6 @@ G. Michael Bowen,News Media,Undirected
 G. Michael Bowen,Teacher Education,Undirected
 John R. Frederiksen,The Learning Science,Undirected
 John R. Frederiksen,Psychology,Undirected
-Wolff-Michael Roth,The Learning Science,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Cognition,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Amy S. Kohn,Educational Policy,Undirected
 Amy S. Kohn,Mathematics Education,Undirected
 Amy S. Kohn,Science Education,Undirected
@@ -5666,8 +5486,6 @@ Allan Jeong,Instructional System,Undirected
 Eric Fehse,Psychology,Undirected
 Eric Fehse,Cognitive Psychology,Undirected
 Eric Fehse,Interaction Design,Undirected
-Wolff-Michael Roth,Nuclear Physics,Undirected
-Wolff-Michael Roth,Physical Sciences,Undirected
 Sasha Barab,Psychology,Undirected
 Sasha Barab,Educational Technology,Undirected
 Sasha Barab,the Learning Sciences,Undirected
@@ -5848,10 +5666,6 @@ William Sandoval,the Learing Science,Undirected
 William Sandoval,Science Communication,Undirected
 William Sandoval,Computer Science,Undirected
 William Sandoval,Educational Psychology,Undirected
-David Hammer,the Learing Science,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
-David Hammer,Educational Studies,Undirected
 Leema K. Berland,the Learing Science,Undirected
 Leema K. Berland,Computer Science,Undirected
 Leema K. Berland,Educational Studies,Undirected
@@ -5884,8 +5698,6 @@ Joachim Kimmerle,Computer Science,Undirected
 Ulrike Cress,the Learing Science,Undirected
 Ulrike Cress,Computer Science,Undirected
 Ulrike Cress,Educational Technology,Undirected
-Wolff-Michael Roth,the Learing Science,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected
 Julia Eberle,the Learing Science,Undirected
 Julia Eberle,Network Science,Undirected
 Julia Eberle,Educational Psychology,Undirected
@@ -6087,7 +5899,6 @@ Richard Lesh,Cognitive Psychology,Undirected
 Richard Lesh,Learning Sciences,Undirected
 Richard Lesh,Cognitive Sciences,Undirected
 Richard Lesh,Maths Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
 Nora H. Sabelli,Chemistry,Undirected
 Michael J. Jacobson,Education,Undirected
 Uri Wilensky,Math,Undirected
@@ -6097,7 +5908,6 @@ Uri Wilensky,Computer Science,Undirected
 Uri Wilensky,Media Arts and Sciences,Undirected
 Robert L. Goldstone,Cognitive  Science,Undirected
 Robert L. Goldstone,Psychology,Undirected
-Jeremy Roschelle,Learning Sciences,Undirected
 Michael J. Jacobson,Learning Sciences,Undirected
 Nora H. Sabelli,Learning Sciences,Undirected
 Uri Wilensky,Learning Sciences,Undirected
@@ -6138,9 +5948,6 @@ Ming Fai Pang ,Learning Sciences,Undirected
 Joseph L. Polman,Literature,Undirected
 Joseph L. Polman,Learning Sciences,Undirected
 Seth Rosenberg,Learning Sciences,Undirected
-David Hammer ,Physics,Undirected
-David Hammer ,Maths Education,Undirected
-David Hammer ,Learning Sciences,Undirected
 Jessica Phelan,Learning Sciences,Undirected
 Michael Eisenberg,Computer Science,Undirected
 Michael Eisenberg,Learning Sciences,Undirected
@@ -6425,9 +6232,6 @@ Joseph Krajcik,Teacher Education,Undirected
 Melissa Sommerfeld Gresalfi,Educational Psychology,Undirected
 Melissa Sommerfeld Gresalfi,French,Undirected
 Melissa Sommerfeld Gresalfi,Learning Sciences,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Mathematics,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected
 Jennifer S. Thom,Elementary Education,Undirected
 Jennifer S. Thom,Curriculum Studies,Undirected
 Jennifer S. Thom,Mathematics Education,Undirected
@@ -6622,9 +6426,6 @@ Carol D. Lee,English,Undirected
 Carol D. Lee,Curriculum and Instruction,Undirected
 Lama Z. Jaber,Science Education,Undirected
 Lama Z. Jaber,Chemistry,Undirected
-David Hammer,Education,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
 Dor Abrahamson,Mathematics Education,Undirected
 Dor Abrahamson,Performing Arts,Undirected
 Dor Abrahamson,Cognitive Psychology,Undirected
@@ -6636,11 +6437,6 @@ Sanne Akkerman,Educational Science,Undirected
 Alfredo Jornet,Education,Undirected
 Alfredo Jornet,Cognitive Science,Undirected
 Alfredo Jornet,Psychology,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected 
-Wolff-Michael Roth,Physics,Undirected 
-Wolff-Michael Roth,Cognitive Science,
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Ingeborg Krange,Educational Sciences,Undirected
 Ingeborg Krange,Sociology,Undirected
 Ingeborg Krange,Computer-Mediated Learning,Undirected
@@ -6748,7 +6544,6 @@ Cindy E. Hmelo,technology enhanced learning,Undirected
 Cindy E. Hmelo,collaborative learning,Undirected
 Judit N. Moschkovich,social sciences division,Undirected
 Judit N. Moschkovich,education and learning of mathematics,Undirected
-Jeremy Roschelle,digital technology,Undirected
 Bonnie Nardi,anthropology,Undirected
 Bonnie Nardi,human-computer interaction,Undirected
 Susan M. Williams,law,Undirected
@@ -6821,10 +6616,6 @@ Debra Bernstein,Educational Technology,Undirected
 Kevin Crowley,The Learning Sciences,Undirected
 Deborah Tatar,Psychology,Undirected
 Deborah Tatar,Computer Science,Undirected
-Jeremy Roschelle,Math,Undirected
-Jeremy Roschelle,Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
-Jeremy Roschelle,The Learning Sciences,Undirected
 Jennifer Knudsen,Math,Undirected
 Jennifer Knudsen,Education,Undirected
 Jim Kaput,Biology,Undirected
@@ -6878,13 +6669,6 @@ Benoit Lemaire,AI,undirected
 Benoit Lemaire,Cognitive psychology,undirected
 Benoit Lemaire,The learning sciences,undirected
 James A. Rosenblum,The learning sciences,undirected
-David Hammer,The learning sciences,undirected
-Wolff-Michael Roth,Physics,undirected
-Wolff-Michael Roth,Cognitive science,undirected
-Wolff-Michael Roth,Statics,undirected
-Wolff-Michael Roth,Physical chemistry,undirected
-Wolff-Michael Roth,The learning sciences,undirected
-Jeremy Roschelle,The learning sciences,undirected
 Elaine M. Crowder,The learning sciences,undirected
 Rogers Hall,The learning sciences,undirected
 Judit N. Moschkovich,Social science,undirected
@@ -6936,7 +6720,6 @@ Mitchell Nathan,Electrical,undirected
 Mitchell Nathan,COmputer Engineering,undirected
 Mitchell Nathan,Math,undirected
 Mitchell Nathan,History,undirected
-Jeremy Roschelle,mathematics education,undirected
 Alyssa Wise,Learning Sciences,undirected
 Alyssa Wise,Chemistry,undirected
 Alyssa Wise,Instructional Systems Technology,undirected
@@ -6958,12 +6741,6 @@ G. Michael Bowen,News Media,Undirected
 G. Michael Bowen,Teacher Education,Undirected
 John R. Frederiksen,The Learning Science,Undirected
 John R. Frederiksen,Psychology,Undirected
-Wolff-Michael Roth,The Learning Science,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Cognition,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Amy S. Kohn,Educational Policy,Undirected
 Amy S. Kohn,Mathematics Education,Undirected
 Amy S. Kohn,Science Education,Undirected
@@ -7013,8 +6790,6 @@ Allan Jeong,Instructional System,Undirected
 Eric Fehse,Psychology,Undirected
 Eric Fehse,Cognitive Psychology,Undirected
 Eric Fehse,Interaction Design,Undirected
-Wolff-Michael Roth,Nuclear Physics,Undirected
-Wolff-Michael Roth,Physical Sciences,Undirected
 Sasha Barab,Psychology,Undirected
 Sasha Barab,Educational Technology,Undirected
 Sasha Barab,the Learning Sciences,Undirected
@@ -7231,8 +7006,6 @@ Joachim Kimmerle,Computer Science,Undirected
 Ulrike Cress,the Learing Science,Undirected
 Ulrike Cress,Computer Science,Undirected
 Ulrike Cress,Educational Technology,Undirected
-Wolff-Michael Roth,the Learing Science,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected
 Julia Eberle,the Learing Science,Undirected
 Julia Eberle,Network Science,Undirected
 Julia Eberle,Educational Psychology,Undirected
@@ -7434,7 +7207,6 @@ Richard Lesh,Cognitive Psychology,Undirected
 Richard Lesh,Learning Sciences,Undirected
 Richard Lesh,Cognitive Sciences,Undirected
 Richard Lesh,Maths Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
 Nora H. Sabelli,Chemistry,Undirected
 Michael J. Jacobson,Education,Undirected
 Uri Wilensky,Math,Undirected
@@ -7444,7 +7216,6 @@ Uri Wilensky,Computer Science,Undirected
 Uri Wilensky,Media Arts and Sciences,Undirected
 Robert L. Goldstone,Cognitive  Science,Undirected
 Robert L. Goldstone,Psychology,Undirected
-Jeremy Roschelle,Learning Sciences,Undirected
 Michael J. Jacobson,Learning Sciences,Undirected
 Nora H. Sabelli,Learning Sciences,Undirected
 Uri Wilensky,Learning Sciences,Undirected
@@ -7485,9 +7256,6 @@ Ming Fai Pang ,Learning Sciences,Undirected
 Joseph L. Polman,Literature,Undirected
 Joseph L. Polman,Learning Sciences,Undirected
 Seth Rosenberg,Learning Sciences,Undirected
-David Hammer ,Physics,Undirected
-David Hammer ,Maths Education,Undirected
-David Hammer ,Learning Sciences,Undirected
 Jessica Phelan,Learning Sciences,Undirected
 Michael Eisenberg,Computer Science,Undirected
 Michael Eisenberg,Learning Sciences,Undirected
@@ -7837,9 +7605,6 @@ Carol D. Lee,English,Undirected
 Carol D. Lee,Curriculum and Instruction,Undirected
 Lama Z. Jaber,Science Education,Undirected
 Lama Z. Jaber,Chemistry,Undirected
-David Hammer,Education,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
 Dor Abrahamson,Mathematics Education,Undirected
 Dor Abrahamson,Performing Arts,Undirected
 Dor Abrahamson,Cognitive Psychology,Undirected
@@ -7851,11 +7616,6 @@ Sanne Akkerman,Educational Science,Undirected
 Alfredo Jornet,Education,Undirected
 Alfredo Jornet,Cognitive Science,Undirected
 Alfredo Jornet,Psychology,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected 
-Wolff-Michael Roth,Physics,Undirected 
-Wolff-Michael Roth,Cognitive Science,
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Ingeborg Krange,Educational Sciences,Undirected
 Ingeborg Krange,Sociology,Undirected
 Ingeborg Krange,Computer-Mediated Learning,Undirected
@@ -7963,7 +7723,6 @@ Cindy E. Hmelo,technology enhanced learning,Undirected
 Cindy E. Hmelo,collaborative learning,Undirected
 Judit N. Moschkovich,social sciences division,Undirected
 Judit N. Moschkovich,education and learning of mathematics,Undirected
-Jeremy Roschelle,digital technology,Undirected
 Bonnie Nardi,anthropology,Undirected
 Bonnie Nardi,human-computer interaction,Undirected
 Susan M. Williams,law,Undirected
@@ -8036,10 +7795,6 @@ Debra Bernstein,Educational Technology,Undirected
 Kevin Crowley,The Learning Sciences,Undirected
 Deborah Tatar,Psychology,Undirected
 Deborah Tatar,Computer Science,Undirected
-Jeremy Roschelle,Math,Undirected
-Jeremy Roschelle,Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
-Jeremy Roschelle,The Learning Sciences,Undirected
 Jennifer Knudsen,Math,Undirected
 Jennifer Knudsen,Education,Undirected
 Jim Kaput,Biology,Undirected
@@ -8169,13 +7924,6 @@ Benoit Lemaire,AI,undirected
 Benoit Lemaire,Cognitive psychology,undirected
 Benoit Lemaire,The learning sciences,undirected
 James A. Rosenblum,The learning sciences,undirected
-David Hammer,The learning sciences,undirected
-Wolff-Michael Roth,Physics,undirected
-Wolff-Michael Roth,Cognitive science,undirected
-Wolff-Michael Roth,Statics,undirected
-Wolff-Michael Roth,Physical chemistry,undirected
-Wolff-Michael Roth,The learning sciences,undirected
-Jeremy Roschelle,The learning sciences,undirected
 Elaine M. Crowder,The learning sciences,undirected
 Rogers Hall,The learning sciences,undirected
 Judit N. Moschkovich,Social science,undirected
@@ -8303,7 +8051,6 @@ Mitchell Nathan,Electrical,undirected
 Mitchell Nathan,COmputer Engineering,undirected
 Mitchell Nathan,Math,undirected
 Mitchell Nathan,History,undirected
-Jeremy Roschelle,mathematics education,undirected
 Alyssa Wise,Learning Sciences,undirected
 Alyssa Wise,Chemistry,undirected
 Alyssa Wise,Instructional Systems Technology,undirected
@@ -8325,12 +8072,6 @@ G. Michael Bowen,News Media,Undirected
 G. Michael Bowen,Teacher Education,Undirected
 John R. Frederiksen,The Learning Science,Undirected
 John R. Frederiksen,Psychology,Undirected
-Wolff-Michael Roth,The Learning Science,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Cognition,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
 Amy S. Kohn,Educational Policy,Undirected
 Amy S. Kohn,Mathematics Education,Undirected
 Amy S. Kohn,Science Education,Undirected
@@ -8380,8 +8121,6 @@ Allan Jeong,Instructional System,Undirected
 Eric Fehse,Psychology,Undirected
 Eric Fehse,Cognitive Psychology,Undirected
 Eric Fehse,Interaction Design,Undirected
-Wolff-Michael Roth,Nuclear Physics,Undirected
-Wolff-Michael Roth,Physical Sciences,Undirected
 Sasha Barab,Psychology,Undirected
 Sasha Barab,Educational Technology,Undirected
 Sasha Barab,the Learning Sciences,Undirected
@@ -8562,10 +8301,6 @@ William Sandoval,the Learing Science,Undirected
 William Sandoval,Science Communication,Undirected
 William Sandoval,Computer Science,Undirected
 William Sandoval,Educational Psychology,Undirected
-David Hammer,the Learing Science,Undirected
-David Hammer,Physics,Undirected
-David Hammer,Astronomy,Undirected
-David Hammer,Educational Studies,Undirected
 Leema K. Berland,the Learing Science,Undirected
 Leema K. Berland,Computer Science,Undirected
 Leema K. Berland,Educational Studies,Undirected
@@ -8598,8 +8333,6 @@ Joachim Kimmerle,Computer Science,Undirected
 Ulrike Cress,the Learing Science,Undirected
 Ulrike Cress,Computer Science,Undirected
 Ulrike Cress,Educational Technology,Undirected
-Wolff-Michael Roth,the Learing Science,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected
 Julia Eberle,the Learing Science,Undirected
 Julia Eberle,Network Science,Undirected
 Julia Eberle,Educational Psychology,Undirected
@@ -8801,7 +8534,6 @@ Richard Lesh,Cognitive Psychology,Undirected
 Richard Lesh,Learning Sciences,Undirected
 Richard Lesh,Cognitive Sciences,Undirected
 Richard Lesh,Maths Education,Undirected
-Jeremy Roschelle,Computer Science,Undirected
 Nora H. Sabelli,Chemistry,Undirected
 Michael J. Jacobson,Education,Undirected
 Uri Wilensky,Math,Undirected
@@ -8811,7 +8543,6 @@ Uri Wilensky,Computer Science,Undirected
 Uri Wilensky,Media Arts and Sciences,Undirected
 Robert L. Goldstone,Cognitive  Science,Undirected
 Robert L. Goldstone,Psychology,Undirected
-Jeremy Roschelle,Learning Sciences,Undirected
 Michael J. Jacobson,Learning Sciences,Undirected
 Nora H. Sabelli,Learning Sciences,Undirected
 Uri Wilensky,Learning Sciences,Undirected
@@ -8852,9 +8583,6 @@ Ming Fai Pang ,Learning Sciences,Undirected
 Joseph L. Polman,Literature,Undirected
 Joseph L. Polman,Learning Sciences,Undirected
 Seth Rosenberg,Learning Sciences,Undirected
-David Hammer ,Physics,Undirected
-David Hammer ,Maths Education,Undirected
-David Hammer ,Learning Sciences,Undirected
 Jessica Phelan,Learning Sciences,Undirected
 Michael Eisenberg,Computer Science,Undirected
 Michael Eisenberg,Learning Sciences,Undirected
@@ -9095,10 +8823,6 @@ Sasha A. Barab,Cognition,Undirected
 David Kirshner,Mathematics,Undirected
 David Kirshner,Education,Undirected
 Jay L. Lemke,Physics,Undirected
-Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Chemistry,Undirected
-Wolff-Michael Roth,Mathematics,Undirecte
-Wolff-Michael Roth,Physics,Undirected
 Kenneth E. Hay,Science and Technology,Undirected
 Kenneth E. Hay,Instruction,Undirected
 Kenneth E. Hay,Education,Undirected
@@ -9296,9 +9020,6 @@ Joseph Krajcik,Teacher Education,Undirected
 Melissa Sommerfeld Gresalfi,Educational Psychology,Undirected
 Melissa Sommerfeld Gresalfi,French,Undirected
 Melissa Sommerfeld Gresalfi,Learning Sciences,Undirected
-Wolff-Michael Roth,Physics,Undirected
-Wolff-Michael Roth,Mathematics,Undirected
-Wolff-Michael Roth,Cognitive Science,Undirected
 Jennifer S. Thom,Elementary Education,Undirected
 Jennifer S. Thom,Curriculum Studies,Undirected
 Jennifer S. Thom,Mathematics Education,Undirected
@@ -9358,8 +9079,6 @@ Jonathan Osborne,Education,Undirected
 Jonathan Osborne,Astrophysics,Undirected
 Ayush Gupta,Physics ,Undirected
 Ayush Gupta,electrophysics,Undirected
-David Hammer,Education,Undirected
-David Hammer,Physics,Undirected
 Edward F. Redish,Physics,Undirected
 Mark Ogonowski,Ecological,Undirected
 Beth Warren,French Language and Literature,Undirected
@@ -9383,7 +9102,6 @@ Laura Toneatti,Psychology,Undirected
 Veronica Rosati,Psychology,Undirected
 Chauncey Monte-Sano,Curriculum and Teacher Education,Undirected
 Chauncey Monte-Sano,History/Social Studies Education,Undirected
-Jeremy Roschelle,math,undirected
 Douglas C. Merrill, psychology,undirected 
 Brian J. Reiser,Learning Sciences,undirected 
 Michael Ranney, Psychology,undirected
